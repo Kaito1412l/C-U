@@ -16,6 +16,6 @@ int main()
  
 	printf("\nTotal Penjumlahan akhir: %d\n", total);
 	printf("Rata-rata: %.2f\n", (float)total/loop);
-	printf("\nProgram Berakhir\n");//as	
+	printf("\nProgram Berakhir\n");
 	return 0;
 }
